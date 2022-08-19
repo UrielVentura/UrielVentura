@@ -8,7 +8,7 @@
   
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=urielventura&label=Profile%20views&color=0e75b6&style=flat" alt="urielventura" /> </p>
+
 
 - 🔭 I’m currently working on **BairesDev Client Project**
 
@@ -24,6 +24,4 @@
 
 
 
-
-
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=urielventura&label=Profile%20views&color=0e75b6&style=flat" alt="urielventura" /> </p>
