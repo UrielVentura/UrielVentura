@@ -10,7 +10,7 @@
 
 
 
-- 🔭 I’m currently available for new challenges, my last professional experience was **BairesDev Client Project**
+- 🔭 I’m currently available for new challenges
 
 - 🌱 I’m currently learning **more Node, React and Javascript stuff**
 
